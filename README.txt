@@ -1,6 +1,7 @@
 cott0075-assignment4 Read Me:
 
-Link to GitHub: https://github.com/mcotter001/cott0075-assignment4
+GitHub: https://github.com/mcotter001/cott0075-assignment4
+Docker: https://hub.docker.com/repository/docker/cotterm001/assignment4
 
 This short python program includes a series of three mini games. A number
 guesser where a user inputs a number and the computer compares it to a 
